@@ -3,7 +3,7 @@ layout: page
 title:  
 permalink: /about/
 ---
-Undergraduate Student Researcher at Temple University Philadelphia, PA
+Graduate Student in IGP in Biomedical Sciences at Vanderbilt University
 
 ![_config.yml](/images/picture.png)
 
