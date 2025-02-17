@@ -3,13 +3,12 @@ layout: page
 title:  
 permalink: /main/
 ---
-Graduate Student in IGP in Biomedical Sciences at Vanderbilt University
 
 ### My YouTube Channel
 [nalahamilton1607]([https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g])
 I make tutorials and research presentations related to biological sciences.
 
-### Research Interests with cool links
+### Research Interests:
 #### Sex chromosome specific phenotypes: 
 Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
