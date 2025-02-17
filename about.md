@@ -5,8 +5,6 @@ permalink: /about/
 ---
 Graduate Student in IGP in Biomedical Sciences at Vanderbilt University
 
-![_config.yml](/images/picture.png)
-
 ### My YouTube Channel
 [nalahamilton1607]([https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g])
 I make tutorials and research presentations related to biological sciences.
