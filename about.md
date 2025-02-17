@@ -12,15 +12,15 @@ Graduate Student in IGP in Biomedical Sciences at Vanderbilt University
 I make tutorials and research presentations related to biological sciences.
 
 ### Research Interests with cool links
-###### Sex chromosome specific phenotypes: 
+#### Sex chromosome specific phenotypes: 
 Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
 
-###### Evolutionary Game Theory: 
+#### Evolutionary Game Theory: 
 Can genomic information can be modeled as a game?
 [Evolutionary game theory and replicator dynamics]([https://www.youtube.com/watch?v=Xp7BAIyQxKE])
 
-###### Spacial and temporial organization of the nucleus: 
+#### Spacial and temporial organization of the nucleus: 
 Can we define a cell type or differentiation stage by chromatin states? 
 
 How is the nucleus involved in cell mobility?
