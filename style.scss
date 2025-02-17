@@ -155,7 +155,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 1;
+  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -228,7 +228,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 1.4px;
 
     @include mobile {
       margin: 0 10px;
