@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Helpful Links
 ---
 ### Helpful links/tutorials for coding and other fun stuff
 [R Coding Key]([https://github.com/NalaHam/R_helpful_functions])
@@ -11,4 +11,3 @@ title: Links
 
 [GTEx Differential Gene Expression in R]([https://github.com/NalaHam/DEG_tutorial])
 
-[Celebrating Two Goldwater Scholars and Two Firsts]([https://news.temple.edu/news/2023-04-21/celebrating-two-goldwater-scholars-and-two-firsts])
