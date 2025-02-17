@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  
-permalink: /about/
+permalink: /main/
 ---
 Graduate Student in IGP in Biomedical Sciences at Vanderbilt University
 
