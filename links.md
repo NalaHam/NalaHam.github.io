@@ -2,7 +2,7 @@
 layout: page
 title: Helpful Links
 ---
-### Helpful links/tutorials for coding and other fun stuff
+
 [R Coding Key]([https://github.com/NalaHam/R_helpful_functions])
 
 [Python Coding Key]([https://github.com/NalaHam/Python_helpful_functions/blob/main/stuff])
