@@ -2,7 +2,7 @@
 layout: page
 title: Cool stuff
 ---
-### Art
+### Art I like
 ![Bosch The Temptation of St.Anthony](/images/Bosch-triptych-the-temptation-of-st-anthony.jpg)
 
 
@@ -46,4 +46,13 @@ xenium in situ images
 
 
 ### Books
+
+
+
+
+
+
+
+
+
 
