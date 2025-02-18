@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Presentations
+title: 
 ---
 
 ### Diamond Research Scholars Program (Temple University)
