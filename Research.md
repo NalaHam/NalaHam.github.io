@@ -1,17 +1,19 @@
 ---
 layout: page
-title: 
+title: Work I've done
 ---
 
-### Diamond Research Scholars Program (Temple University)
-Nov 2023
+### Undergraduate Posters:
 
 <details>
-  <summary>Poster</summary>
+  <summary>Diamond Research Scholars Program (Temple University)</summary>
   
   <img src="/images/fall_2023_poster.png" alt="Poster Image" width="800"/>
+  Nov 2023
   
 </details>
+
+
 
 ### 3rd Annual Goldwater Research Symposium
 Aug 2023
