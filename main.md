@@ -30,21 +30,19 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 
 [Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer](https://www.nature.com/articles/s41467-017-01968-5)
 (paper)
-<img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
 
-waddington epigenetics
 
 
 #### Spacial and temporial organization of the nucleus: 
 **Can we define a cell type or differentiation stage by chromatin states?**
 
+<img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
+waddington epigenetics
 
 ![Fig f in Tan et al. 2028](/images/Sunney.jpg)
 
 
 Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional genome structures of single diploid human cells. Science. https://doi.org/10.1126/science.aat5641
-
-
 
 
 
