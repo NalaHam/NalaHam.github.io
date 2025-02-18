@@ -271,11 +271,10 @@ nav {
   }
 }
 
-.wrapper-footer { display: none;
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+.wrapper-footer {
+  display: none !important;
+  height: 0;
+  visibility: hidden;
 }
 
 footer {
