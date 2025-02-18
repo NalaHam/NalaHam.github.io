@@ -24,7 +24,7 @@ May 2023–Dec 2023
 
 <details>
   <summary>Poster</summary>
-  <img ![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)/>
+  <img src="/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png" alt="Poster Image" width="800"/>
 </details>
 
 
@@ -33,7 +33,7 @@ Jan 2023-May 2023
 
 <details>
   <summary>Poster</summary>
-  ![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
+  <img src="/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png" alt="Poster Image" width="800"/>
 </details>
 
 ### Frances Velay Fellowship Program 
@@ -41,7 +41,7 @@ May 2022–Aug 2022
 
 <details>
   <summary>Poster</summary>
-  ![_config.yml]({{ site.baseurl }}/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png)
+  <img src=!"/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png" alt="Poster Image" width="800"/>
 </details>
 
 
