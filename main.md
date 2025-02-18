@@ -35,6 +35,10 @@ Can genomic information be modeled as a game?
 Can we define a cell type or differentiation stage by chromatin states? 
 
 
+![Fig f in Tan et al. 2028](/images/Sunney.jpg)
+Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional genome structures of single diploid human cells. Science. https://doi.org/10.1126/science.aat5641
+
+
 How is the nucleus involved in cell mobility?
 [The role of the LINC complex in cell migration]([https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s])
 
