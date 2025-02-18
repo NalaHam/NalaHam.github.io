@@ -30,7 +30,7 @@ title: Work I've done
 
 <details>
   <summary>Frances Velay Fellowship Program (May 2022–Aug 2022)</summary>
-  <img src=!"/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png" alt="Poster Image" width="800"/>
+  <img src="/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png" alt="Poster Image" width="800"/>
 </details>
 
 
