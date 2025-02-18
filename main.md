@@ -14,7 +14,7 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
 
 #### Evolutionary Game Theory: 
-Can genomic information be modeled as a game?
+##### Can genomic information be modeled as a game?
 
 
 [Evolutionary game theory and replicator dynamics](https://www.youtube.com/watch?v=Xp7BAIyQxKE)
@@ -32,14 +32,21 @@ Can genomic information be modeled as a game?
 ![waddington epigenetics](/images/Waddington_epigenetics.png =700x700)
 
 #### Spacial and temporial organization of the nucleus: 
-Can we define a cell type or differentiation stage by chromatin states? 
+##### Can we define a cell type or differentiation stage by chromatin states? 
 
 
 ![Fig f in Tan et al. 2028](/images/Sunney.jpg)
+
+
 Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional genome structures of single diploid human cells. Science. https://doi.org/10.1126/science.aat5641
 
 
-How is the nucleus involved in cell mobility?
+
+
+
+
+
+##### How is the nucleus involved in cell mobility?
 [The role of the LINC complex in cell migration](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
 
 
