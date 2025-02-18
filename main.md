@@ -50,8 +50,8 @@ Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional 
 [The role of the LINC complex in cell migration](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
 (video)
 
-<video src="https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s" width="700">
-</video>
+[![The role of LINC complex and nuclear polarization in migrating fibroblasts](/images/hqdefault.jpg)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
+
 
 ### Contact me
 [hamiltonnalj@gmail.com](mailto:hamiltonnalj@gmail.com)
