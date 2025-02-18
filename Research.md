@@ -24,7 +24,7 @@ May 2023–Dec 2023
 
 <details>
   <summary>Poster</summary>
-  <![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)>
+  <img ![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)/>
 </details>
 
 
