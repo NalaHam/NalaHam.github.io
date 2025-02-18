@@ -32,7 +32,6 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 
 <img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
 
-
 waddington epigenetics
 
 
