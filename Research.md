@@ -3,11 +3,7 @@ layout: page
 title: Work I've done
 ---
 ### Presentations:
-3rd Annual Goldwater Research Symposium
-
-
-Aug 2023
-
+3rd Annual Goldwater Research Symposium (Aug 2023)
 
 [Escape from X chromosome inactivation loci encoding disease (EXILED) as a possible genomic mechanism for sex disparity in disease](Goldwater_presentation.pdf)
 
