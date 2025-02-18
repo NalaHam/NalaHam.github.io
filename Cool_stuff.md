@@ -21,7 +21,7 @@ Brueghel Hunters in the Snow
 Brueghel/Bosch? The Triumph of Death
 
 
-![Waterhouse Magic Circle](/images/john_waterhouse_magic_circle.jpg)
+<img src="/images/john_waterhouse_magic_circle.jpg" alt="painting" width="750"/>
 
 
 Waterhouse Magic Circle
