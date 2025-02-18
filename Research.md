@@ -9,7 +9,7 @@ Nov 2023
 <details>
   <summary>Poster</summary>
   
-  <IMG ![_config.yml]({{ site.baseurl }}/images/fall_2023_poster.png)>
+  <IMG scr:"/images/fall_2023_poster.png">
   
 </details>
 
