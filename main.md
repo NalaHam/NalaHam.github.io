@@ -29,7 +29,10 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 [Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer](https://www.nature.com/articles/s41467-017-01968-5)
 
 <img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
-![waddington epigenetics](/images/Waddington_epigenetics.png =700x700)
+
+
+waddington epigenetics
+
 
 #### Spacial and temporial organization of the nucleus: 
 ##### Can we define a cell type or differentiation stage by chromatin states? 
