@@ -14,7 +14,7 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
 
 #### Evolutionary Game Theory: 
-Can genomic information can be modeled as a game?
+Can genomic information be modeled as a game?
 
 
 [Evolutionary game theory and replicator dynamics]([https://www.youtube.com/watch?v=Xp7BAIyQxKE])
