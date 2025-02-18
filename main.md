@@ -11,7 +11,7 @@ permalink: /main/
 I make tutorials and research presentations related to biological sciences.
 
 ### Research Interests:
-<br>
+
 #### Sex chromosome specific phenotypes: 
 Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
@@ -19,7 +19,6 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 #### Evolutionary Game Theory: 
 **Can genomic information be modeled as a game?**
 
-<br>
 [Evolutionary game theory and replicator dynamics](https://www.youtube.com/watch?v=Xp7BAIyQxKE)
 (video)
 <br>
