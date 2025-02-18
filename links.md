@@ -19,3 +19,6 @@ title: Helpful Links
 ### textbooks
 [Networks, Crowds, and Markets: Reasoning About a Highly Connected World. By David Easley and Jon Kleinberg]([https://www.cs.cornell.edu/home/kleinber/networks-book/])
 
+<br>
+<br>
+<br>
