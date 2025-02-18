@@ -15,10 +15,25 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 
 #### Evolutionary Game Theory: 
 Can genomic information can be modeled as a game?
+
+
 [Evolutionary game theory and replicator dynamics]([https://www.youtube.com/watch?v=Xp7BAIyQxKE])
+
+
+[Epigenetic game theory: How to compute the epigenetic control of maternal-to-zygotic transition]([https://www.sciencedirect.com/science/article/abs/pii/S157106451630135X])
+
+
+[Dissecting genomic imprinting and genetic conflict from a game theory prospective]([https://pubmed.ncbi.nlm.nih.gov/28159530/])
+
+
+[Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer]([https://www.nature.com/articles/s41467-017-01968-5])
+
+(insert image)
+waddington epigenetics
 
 #### Spacial and temporial organization of the nucleus: 
 Can we define a cell type or differentiation stage by chromatin states? 
+
 
 How is the nucleus involved in cell mobility?
 [The role of the LINC complex in cell migration]([https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s])
