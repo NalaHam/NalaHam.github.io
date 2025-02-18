@@ -9,7 +9,7 @@ Nov 2023
 <details>
   <summary>Poster</summary>
   
-  <img src="/images/fall_2023_poster.png" alt="Poster Image" width="300"/>
+  <img src="/images/fall_2023_poster.png" alt="Poster Image" width="800"/>
   
 </details>
 
