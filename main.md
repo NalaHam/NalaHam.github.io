@@ -28,8 +28,8 @@ Can genomic information be modeled as a game?
 
 [Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer]([https://www.nature.com/articles/s41467-017-01968-5])
 
-(insert image)
-waddington epigenetics
+
+![waddington epigenetics](/images/Waddington_epigenetics.png)
 
 #### Spacial and temporial organization of the nucleus: 
 Can we define a cell type or differentiation stage by chromatin states? 
