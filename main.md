@@ -47,9 +47,7 @@ Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional 
 <br>
 
 **How is the nucleus involved in cell mobility?**
-[The role of the LINC complex in cell migration](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
-(video)
-
+The role of LINC complex and nuclear polarization in migrating fibroblasts
 [![The role of LINC complex and nuclear polarization in migrating fibroblasts](/images/hqdefault.jpg)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
 
 
