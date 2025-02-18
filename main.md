@@ -20,16 +20,16 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 
 
 [Evolutionary game theory and replicator dynamics](https://www.youtube.com/watch?v=Xp7BAIyQxKE)
-
+(video)
 
 [Epigenetic game theory: How to compute the epigenetic control of maternal-to-zygotic transition](https://www.sciencedirect.com/science/article/abs/pii/S157106451630135X)
-
+(paper)
 
 [Dissecting genomic imprinting and genetic conflict from a game theory prospective](https://pubmed.ncbi.nlm.nih.gov/28159530/)
-
+(paper)
 
 [Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer](https://www.nature.com/articles/s41467-017-01968-5)
-
+(paper)
 <img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
 
 waddington epigenetics
@@ -52,7 +52,7 @@ Tan, L., Xing, D., Chang, C. H., Li, H., & Xie, X. S. (2018). Three-dimensional 
 
 **How is the nucleus involved in cell mobility?**
 [The role of the LINC complex in cell migration](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
-
+(video)
 
 ### Contact me
 [hamiltonnalj@gmail.com](mailto:hamiltonnalj@gmail.com)
