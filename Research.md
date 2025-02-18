@@ -7,7 +7,7 @@ title: Research Presentations
 Nov 2023
 
 <details>
-  <summary>Click me</summary>
+  <summary>Poster</summary>
   ![_config.yml]({{ site.baseurl }}/images/fall_2023_poster.png)
 </details>
 
@@ -20,19 +20,26 @@ Aug 2023
 ## Diamond Research Scholars Program (Temple University)
 May 2023–Dec 2023
 
+<details>
+  <summary>Poster</summary>
+  ![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
+</details>
 
-![_config.yml]({{ site.baseurl }}/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png)
 
 ## Kulathinal Research Lab 
 Jan 2023-May 2023
 
-
-![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
+<details>
+  <summary>Poster</summary>
+  ![_config.yml]({{ site.baseurl }}/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png)
+</details>
 
 ## Frances Velay Fellowship Program 
 May 2022–Aug 2022
 
-
-![_config.yml]({{ site.baseurl }}/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png)
+<details>
+  <summary>Poster</summary>
+  ![_config.yml]({{ site.baseurl }}/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png)
+</details>
 
 
