@@ -3,7 +3,7 @@ layout: page
 title: Cool stuff
 ---
 <a href="#popup">
-  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150">
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150"/>
 </a>
 
 <div id="popup" class="overlay">
