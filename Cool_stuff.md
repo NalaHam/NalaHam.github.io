@@ -3,13 +3,12 @@ layout: page
 title: Cool stuff
 ---
 <a href="#popup">
-  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150"/>
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150">
 </a>
 
 <div id="popup" class="overlay">
   <a class="close" href="#">×</a>
-  <img src="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image"/>
-  Bosch The Temptation of St.Anthony
+  <img src="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
 </div>
 
 <details>
