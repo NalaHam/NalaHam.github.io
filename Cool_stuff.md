@@ -3,6 +3,12 @@ layout: page
 title: Cool stuff
 ---
 ### Art I like
+<details>
+  <summary>Art I Like</summary>
+  <img src="/images/Bosch-triptych-the-temptation-of-st-anthony.jpg" width="800"/>
+  Bosch The Temptation of St.Anthony
+</details>
+
 ![Bosch The Temptation of St.Anthony](/images/Bosch-triptych-the-temptation-of-st-anthony.jpg)
 
 
