@@ -6,9 +6,9 @@ title: Cool stuff
 <details>
   <summary>Art I Like</summary>
   <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
-  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400"/>
-
-
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400">
+  </a>
+</details>
 
     
   <img src="/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"/>
@@ -25,8 +25,6 @@ title: Cool stuff
   
   <img src="/images/john_waterhouse_lady_of_shalott.jpg"/
   Waterhouse The Lday of Shalott
-  
-</details>
 
 
 ### Microscopy
