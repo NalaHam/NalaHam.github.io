@@ -17,12 +17,12 @@ title: Cool stuff
 
 
   <a href="#popup">
-  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail" width="150">
+  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail2" width="150">
   </a>
 
 <div id="popup" class="overlay">
   <a class="close" href="#">×</a>
-  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image">
+  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image2">
   Brueghel Hunters in the Snow
 </div>
 
