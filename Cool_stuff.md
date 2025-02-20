@@ -3,24 +3,27 @@ layout: page
 title: Cool stuff
 ---
 
-<div class="gallery">
-  <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
-    <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400">
-  </a>
-  <div class="desc">Brueghel/Bosch? The Triumph of Death</div>
-</div>
-
 <details>
   <summary>Art I Like</summary>
+  <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400"/>
+
+
+
+    
   <img src="/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"/>
   Bosch The Temptation of St.Anthony
+  
   <img src="/images/Brueghel_hunters_in_the_snow.jpg"/>
   Brueghel Hunters in the Snow
+ 
   <img src="/images/Brueghel-the-triumph-of-death.jpg"/>
   Brueghel/Bosch? The Triumph of Death
+  
   <img src="/images/john_waterhouse_magic_circle.jpg" width="750"/>
   Waterhouse Magic Circle
-  <img src="/images/john_waterhouse_lady_of_shalott.jpg"/)
+  
+  <img src="/images/john_waterhouse_lady_of_shalott.jpg"/
   Waterhouse The Lday of Shalott
   
 </details>
