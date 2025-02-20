@@ -8,7 +8,7 @@ title: Cool stuff
 
 <div id="popup" class="overlay">
   <a class="close" href="#">×</a>
-  <img src="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
+  <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
 </div>
 
 <details>
