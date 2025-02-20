@@ -2,10 +2,48 @@
 layout: page
 title: Cool stuff
 ---
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
+    <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400">
+  </a>
+  <div class="desc">Brueghel/Bosch? The Triumph of Death</div>
+</div>
+
+</body>
+</html>
+
+
 
 <details>
   <summary>Art I Like</summary>
-  <img src="/thumbnail/Bosch-triptych-the-temptation-of-st-anthony.jpg" width="100", /The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/>
+  <img src="/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"/>
   Bosch The Temptation of St.Anthony
   <img src="/images/Brueghel_hunters_in_the_snow.jpg"/>
   Brueghel Hunters in the Snow
