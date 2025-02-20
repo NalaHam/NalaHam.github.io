@@ -4,12 +4,17 @@ title: Cool stuff
 ---
 
 <details>
-  <summary>Art I Like</summary>
-  <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
-  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="test" width="600" height="400">
-  </a>
-</details>
 
+<a href="#popup">
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150">
+</a>
+
+<div id="popup" class="overlay">
+  <a class="close" href="#">×</a>
+  <img src="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
+</div>
+
+</details>
     
   <img src="/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"/>
   Bosch The Temptation of St.Anthony
