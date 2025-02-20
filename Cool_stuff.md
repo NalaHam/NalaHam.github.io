@@ -2,32 +2,6 @@
 layout: page
 title: Cool stuff
 ---
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
 
 <div class="gallery">
   <a target="_blank" href="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg">
@@ -35,11 +9,6 @@ div.desc {
   </a>
   <div class="desc">Brueghel/Bosch? The Triumph of Death</div>
 </div>
-
-</body>
-</html>
-
-
 
 <details>
   <summary>Art I Like</summary>
