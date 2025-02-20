@@ -9,12 +9,11 @@ title: Cool stuff
 <div id="popup" class="overlay">
   <a class="close" href="#">×</a>
   <img src="The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
+  Bosch The Temptation of St.Anthony
 </div>
 
 <details>
   <summary>Art</summary>
-  <img src="/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg"/>
-  Bosch The Temptation of St.Anthony
   
   <img src="/images/Brueghel_hunters_in_the_snow.jpg"/>
   Brueghel Hunters in the Snow
