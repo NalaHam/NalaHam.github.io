@@ -4,9 +4,14 @@ title: Cool stuff
 ---
 <!-- A -->
 
-<img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
+<!-- <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
 <img src="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
-  Bruegel/Bosch? The Triumph of Death
+  Bruegel/Bosch? The Triumph of Death -->
+
+<a href="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" target="_blank">
+  <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail of larger image" width="150">
+</a>
+
 
 <!-- B -->
 <img src="images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
