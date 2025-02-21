@@ -31,8 +31,7 @@ title: Cool stuff
 </a>
 
 <div id= "popupC" class="overlay">
-  <a class="close" href="#">x
-  </a>
+  <a class="close" href="#">x</a>
   <img src="images/john_waterhouse_magic_circle.jpg" alt="Full-size Image C">
   Waterhouse Magic Circle
 </div>
@@ -43,10 +42,9 @@ title: Cool stuff
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
     </a>
 <div id= "popupD" class="overlay">
-  <a class="close" href="#">x
-  </a>
+  <a class="close" href="#">x</a>
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
-  Waterhouse The Lday of Shalott
+  Waterhouse The Lady of Shalott
 </div>
     
 ### Microscopy
