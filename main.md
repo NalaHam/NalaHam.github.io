@@ -35,7 +35,7 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 **Can we define a cell type or differentiation stage by chromatin states?**
 <br>
 <img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
-waddington epigenetics
+Waddington epigenetics
 
 ![Fig f in Tan et al. 2028](/images/Sunney.jpg)
 
