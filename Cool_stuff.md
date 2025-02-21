@@ -27,14 +27,15 @@ title: Cool stuff
 
 <!-- C -->
 <a href="#popupC">
-  <img src="images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
-    </a>
+<img src="images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
+</a>
+
 <div id= "popupC" class="overlay">
   <a class="close" href="#">x
   </a>
   <img src="images/john_waterhouse_magic_circle.jp" alt="Full-size Image C">
   Waterhouse Magic Circle
-    </div>
+</div>
 
     
 <!-- D -->
@@ -46,7 +47,7 @@ title: Cool stuff
   </a>
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
   Waterhouse The Lday of Shalott
-    </div>
+</div>
     
 ### Microscopy
 electron images
