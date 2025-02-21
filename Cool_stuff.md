@@ -3,6 +3,9 @@ layout: page
 title: Cool stuff
 ---
 
+<a href="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
+<img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150"/></a>
+
 <!-- A -->
   <a href="#popupA">
   <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
