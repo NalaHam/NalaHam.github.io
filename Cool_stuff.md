@@ -2,7 +2,7 @@
 layout: page
 title: Cool stuff
 ---
-## Art
+
 <!-- A -->
   <a href="#popupA">
   <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
@@ -41,7 +41,8 @@ title: Cool stuff
 <!-- D -->
 <a href="#popupD">
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
-    </a>
+</a>
+
 <div id= "popupD" class="overlay">
   <a class="close" href="#">x</a>
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
