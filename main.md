@@ -4,19 +4,17 @@ title:  About me
 permalink: /main/
 ---
 
-### YouTube Channel
-[nalahamilton1607](https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g)
+# Research Interests/Things I think are interesting:
+
+## The Youtuber Nalahamilton1607
+### [nalahamilton1607](https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g)
 
 
-I make tutorials and research presentations related to biological sciences.
-
-### Research Interests:
-
-#### Sex chromosome specific phenotypes: 
+# Sex chromosome specific phenotypes: 
 Escape genes, Loss of Y chromosome, X chromosome inactivation
 (see research documents tab)
 
-#### Evolutionary Game Theory: 
+## Evolutionary Game Theory: 
 **Can genomic information be modeled as a game?**
 
 [Evolutionary game theory and replicator dynamics](https://www.youtube.com/watch?v=Xp7BAIyQxKE)
@@ -33,7 +31,7 @@ Escape genes, Loss of Y chromosome, X chromosome inactivation
 
 
 
-#### Spacial and temporial organization of the nucleus: 
+## Spacial and temporial organization of the nucleus: 
 **Can we define a cell type or differentiation stage by chromatin states?**
 <br>
 <img src="/images/Waddington_epigenetics.png" alt="drawing" width="700"/>
@@ -54,7 +52,10 @@ The role of LINC complex and nuclear polarization in migrating fibroblasts
 
 [![The role of LINC complex and nuclear polarization in migrating fibroblasts](/images/hqdefault.jpg)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
 
-###Papers I'm reading/going to read
+## Papers I'm reading/going to read
+[](https://www.biorxiv.org/content/10.1101/2025.01.20.633904v1.abstract)
+
+
 
 ### Contact me
 [hamiltonnalj@gmail.com](mailto:hamiltonnalj@gmail.com)
