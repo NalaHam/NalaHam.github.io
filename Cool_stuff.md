@@ -2,8 +2,7 @@
 layout: page
 title: Cool stuff
 ---
-<details>
-  <summary>Art</summary>
+
   <a href="#popup">
   <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150">
   </a>
@@ -13,7 +12,6 @@ title: Cool stuff
   <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
   Bruegel/Bosch? The Triumph of Death
 </div>
-
 
 
   <a href="#popup">
@@ -32,8 +30,6 @@ title: Cool stuff
   
   <img src="/images/john_waterhouse_lady_of_shalott.jpg"/>
   Waterhouse The Lday of Shalott
-</details>
-
 
 ### Microscopy
 electron images
