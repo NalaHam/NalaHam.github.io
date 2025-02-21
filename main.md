@@ -53,9 +53,9 @@ The role of LINC complex and nuclear polarization in migrating fibroblasts
 [![The role of LINC complex and nuclear polarization in migrating fibroblasts](/images/hqdefault.jpg)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s)
 
 ## Papers I'm reading/going to read
-[](https://www.biorxiv.org/content/10.1101/2025.01.20.633904v1.abstract)
+[Fey et al. 2024 (PREPRINT)Directed insulin secretion occurs at precise cortical regions with optimal ELKS content that are devoid of microtubules](https://www.biorxiv.org/content/10.1101/2025.01.20.633904v1.abstract)
 
-
+[Ho et al. 2024 (PREPRINT)Pancreatic islet α cells regulate microtubule stability in neighboring β cells to tune insulin secretion and induce functional heterogeneity in individual mouse and human islets](https://www.biorxiv.org/content/10.1101/2024.10.21.619544v1.abstract)
 
 ### Contact me
 [hamiltonnalj@gmail.com](mailto:hamiltonnalj@gmail.com)
