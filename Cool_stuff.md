@@ -2,6 +2,7 @@
 layout: page
 title: Cool stuff
 ---
+## Art
 <!-- A -->
   <a href="#popupA">
   <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
