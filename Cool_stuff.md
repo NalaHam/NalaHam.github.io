@@ -33,7 +33,7 @@ title: Cool stuff
 <div id= "popupC" class="overlay">
   <a class="close" href="#">x
   </a>
-  <img src="images/john_waterhouse_magic_circle.jp" alt="Full-size Image C">
+  <img src="images/john_waterhouse_magic_circle.jpg" alt="Full-size Image C">
   Waterhouse Magic Circle
 </div>
 
