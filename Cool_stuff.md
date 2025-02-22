@@ -13,7 +13,7 @@ title: Cool stuff
     <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
   </div>
 
-<!-- B -->
+<!-- B 
   <a href="#popupB">
   <img src="images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
   </a>
@@ -25,7 +25,7 @@ title: Cool stuff
 </div>
 
 
-<!-- C -->
+
 <a href="popupC">
   <img src="images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
 </a>
@@ -37,7 +37,7 @@ title: Cool stuff
 </div>
 
  
-<!-- D -->
+
 <a href="popupD">
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
 </a>
@@ -46,7 +46,7 @@ title: Cool stuff
   </a>
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
   Waterhouse <em>The Lady of Shalott</em>
-</div>
+</div> -->
 
     
 ### Microscopy
