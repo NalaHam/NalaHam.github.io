@@ -36,16 +36,15 @@ title: Cool stuff
 </div>
  
 <!-- D -->
-<a href="popupD">
+  <a href="#popupD">
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
-</a>
+  </a>
 
 <div id="popupD" class="overlay">
-  <a class="close" href="#">x</a>
+  <a class="close" href="#">×</a>
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
-  Waterhouse <em>The Lady of Shalott</em>
-</div> 
-
+   Waterhouse <em>The Lady of Shalott</em>
+</div>
     
 ### Microscopy
 electron images
