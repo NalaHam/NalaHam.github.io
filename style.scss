@@ -1,5 +1,17 @@
 ---
 ---
+.popup-content {
+  text-align: center; /* Centers image and text */
+  max-width: 90%;
+  margin: auto;
+}
+
+.popup-text {
+  font-size: 16px;
+  margin-top: 10px;
+  color: white; /* Adjust to match your design */
+}
+
 .overlay {
   position: fixed;
   top: 0;
