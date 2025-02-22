@@ -11,7 +11,7 @@ title: Cool stuff
 <div id="popupA" class="overlay">
   <a class="close" href="#">×</a>
   <img src="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
-  Bruegel/Bosch? *The Triumph of Death*
+  Bruegel/Bosch? <em>The Triumph of Death</em>
 </div>
 
 
@@ -23,7 +23,7 @@ title: Cool stuff
 <div id="popupB" class="overlay">
   <a class="close" href="#">×</a>
   <img src="images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
-   Brueghel * Hunters in the Snow *
+   Brueghel <em>Hunters in the Snow</em>
 </div>
 
 
@@ -35,7 +35,7 @@ title: Cool stuff
   <a class="close" href="#">
   </a>
   <img src="images/john_waterhouse_magic_circle.jpg" alt="Full-size Image C">
-  Waterhouse * Magic Circle *
+  Waterhouse <em>Magic Circle</em>
 </div>
 
  
@@ -47,7 +47,7 @@ title: Cool stuff
   <a class="close" href="#">
   </a>
   <img src="images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
-  Waterhouse * The Lady of Shalott *
+  Waterhouse <em>The Lady of Shalott</em>
 </div>
 
     
