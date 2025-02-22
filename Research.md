@@ -2,7 +2,15 @@
 layout: page
 title: Work I've done
 ---
-### Presentations:
+
+## Graduate Studies:
+### Rotation 3
+[![Visualizing and measuring cargo transport to Golgi, a rotation project in Vanderbilt's IGP](https://github.com/user-attachments/assets/7bad0c14-b6f4-4f57-8e1c-d2d5abaac329)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s) 
+
+
+
+
+## Undergraduate:
 3rd Annual Goldwater Research Symposium (Aug 2023)
 
 [Escape from X chromosome inactivation loci encoding disease (EXILED) as a possible genomic mechanism for sex disparity in disease (pdf)](Goldwater_presentation.pdf)
