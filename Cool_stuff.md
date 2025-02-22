@@ -2,7 +2,7 @@
 layout: page
 title: Cool stuff
 ---
-<!-- A -->
+<!-- A 
   <a href="#popupA">
     <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
   </a>
@@ -11,7 +11,16 @@ title: Cool stuff
     <a class="close" href="#">×</a>
     <img src="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
     <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
-  </div>
+  </div> -->
+
+<a href="#popup">
+  <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail" width="150">
+</a>
+
+<div id="popup" class="overlay">
+  <a class="close" href="#">×</a>
+  <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
+</div>
 
 <!-- B 
   <a href="#popupB">
