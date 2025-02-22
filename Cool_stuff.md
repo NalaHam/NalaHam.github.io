@@ -60,9 +60,6 @@ immunofluorescence images
 
 xenium in situ images
 
-### Monkeys
-
-
 ### Books
 
 
