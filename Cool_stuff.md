@@ -24,7 +24,7 @@ title: Cool stuff
 <div id="popupB" class="overlay">
   <a class="close" href="#">×</a>
   <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
-  <p>Another artwork description.</p>
+  <p class="popup-text">Brueghel <em>Hunters in the Snow</em></p>
 </div>
 
 <!-- A 
