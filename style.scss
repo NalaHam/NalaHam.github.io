@@ -2,15 +2,23 @@
 ---
 .popup-content {
   display: flex;
-  flex-direction: column; /* Stacks image and text vertically */
-  align-items: center; /* Centers content */
+  flex-direction: column;
+  align-items: center;
   text-align: center;
+  max-height: 90vh; /* Prevents the entire content from overflowing */
+  overflow: auto; /* Allows scrolling if needed */
+}
+
+.popup-content img {
+  max-width: 90%;
+  max-height: 70vh; /* Leaves space for text */
+  border-radius: 10px;
 }
 
 .popup-text {
-  font-size: 16px;
+  flex-grow: 1; /* Ensures text gets its space */
   margin-top: 10px;
-  color: white; 
+  color: white;
 }
 
 .overlay {
