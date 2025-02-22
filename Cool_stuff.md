@@ -2,6 +2,7 @@
 layout: page
 title: Cool stuff
 ---
+<!-- Container -->
 <div class="thumbnail-container">
   <a href="#popupA">
     <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
@@ -11,10 +12,13 @@ title: Cool stuff
   </a>
 </div>
 
+<!-- Images -->
 <div id="popupA" class="overlay">
   <a class="close" href="#">×</a>
-  <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
-  <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
+  <div class="popup-content">
+    <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
+    <p class="popup-text">Bruegel/Bosch? <em>The Triumph of Death</em></p>
+  </div>
 </div>
 
 <div id="popupB" class="overlay">
