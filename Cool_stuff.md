@@ -25,20 +25,21 @@ title: Cool stuff
 </div>
 
 <!-- C -->
-<a href="popupC">
+  <a href="#popupC">
   <img src="/images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
-</a>
-<div id="popupC" class="overlay">
-  <a class="close" href="#">x</a>
-  <img src="/images/john_waterhouse_magic_circle.jpg" alt="Full-size Image C">
-  Waterhouse <em>Magic Circle</em>
-</div>
+  </a>
 
+<div id="popupC" class="overlay">
+  <a class="close" href="#">×</a>
+  <img src="/images/john_waterhouse_magic_circle.jpg" alt="Full-size Image C">
+   Waterhouse <em>Magic Circle</em>
+</div>
  
 <!-- D -->
 <a href="popupD">
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
 </a>
+
 <div id="popupD" class="overlay">
   <a class="close" href="#">x</a>
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
