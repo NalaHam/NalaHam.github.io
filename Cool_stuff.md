@@ -20,7 +20,7 @@ title: Cool stuff
 <div id="popup" class="overlay">
   <a class="close" href="#">×</a>
   <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image">
-  <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
+  Bruegel/Bosch? <em>The Triumph of Death</em>
 </div>
 
 <!-- B 
