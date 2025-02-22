@@ -2,6 +2,7 @@
 layout: page
 title: Cool stuff
 ---
+### Art
 <!-- Container -->
 <div class="thumbnail-container">
   <a href="#popupA">
