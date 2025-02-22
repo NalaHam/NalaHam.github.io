@@ -69,7 +69,7 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Full-size Image D">
    Waterhouse <em>The Lady of Shalott</em>
-</div> -->
+</div>
     
 ### Microscopy
 electron images
