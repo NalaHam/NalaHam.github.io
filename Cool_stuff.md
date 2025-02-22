@@ -23,19 +23,19 @@ title: Cool stuff
   Bruegel/Bosch? <em>The Triumph of Death</em>
 </div>
 
-<!-- B 
+
   <a href="#popupB">
-  <img src="images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
+  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
   </a>
 
 <div id="popupB" class="overlay">
   <a class="close" href="#">×</a>
-  <img src="images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
+  <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
    Brueghel <em>Hunters in the Snow</em>
 </div>
 
 
-
+<!-- B 
 <a href="popupC">
   <img src="images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
 </a>
