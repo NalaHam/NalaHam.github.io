@@ -5,16 +5,16 @@ title: Cool stuff
 <!-- Container -->
 <div class="thumbnail-container">
   <a href="#popupA">
-    <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
+    <img src="/thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" height="100">
   </a>
   <a href="#popupB">
-    <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
+    <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" height="100">
   </a>
   <a href="#popupC">
-    <img src="/images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
+    <img src="/images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" height="100">
   </a>
   <a href="#popupD">
-    <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
+    <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" height="100">
   </a>
 </div>
 
