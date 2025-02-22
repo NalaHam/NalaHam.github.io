@@ -21,13 +21,13 @@ title: Cool stuff
   </div>
 </div>
 
-
-
-
 <div id="popupB" class="overlay">
   <a class="close" href="#">×</a>
   <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
-  <p class="popup-text">Brueghel <em>Hunters in the Snow</em></p>
+  <div class="popup-content">
+    <img src="/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
+    <p class="popup-text">Brueghel <em>Hunters in the Snow</em></p>
+  </div>
 </div>
 
 <!-- A 
@@ -41,7 +41,7 @@ title: Cool stuff
     <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
   </div>
 
-<!-- B -->
+<!-- B 
   <a href="#popupB">
   <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Thumbnail B" width="150">
   </a>
@@ -52,7 +52,7 @@ title: Cool stuff
    Brueghel <em>Hunters in the Snow</em>
 </div>
 
-<!-- C -->
+<!-- C 
   <a href="#popupC">
   <img src="/images/john_waterhouse_magic_circle.jpg" alt="Thumbnail C" width="150">
   </a>
@@ -63,7 +63,7 @@ title: Cool stuff
    Waterhouse <em>Magic Circle</em>
 </div>
  
-<!-- D -->
+<!-- D 
   <a href="#popupD">
   <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" width="150">
   </a>
