@@ -5,7 +5,7 @@ title: Work I've done
 
 ## Graduate Studies:
 ### Rotation 3
-[![Visualizing and measuring cargo transport to Golgi, a rotation project in Vanderbilt's IGP](https://github.com/user-attachments/assets/7bad0c14-b6f4-4f57-8e1c-d2d5abaac329)](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s) 
+[![Visualizing and measuring cargo transport to Golgi, a rotation project in Vanderbilt's IGP]()](https://www.youtube.com/watch?v=cS5sKqZt71o&t=6s) 
 
 
 
