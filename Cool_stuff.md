@@ -3,17 +3,15 @@ layout: page
 title: Cool stuff
 ---
 <!-- A -->
-
   <a href="#popupA">
-  <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
+    <img src="thumbnail/Brueghel-the-triumph-of-death.jpg" alt="Thumbnail A" width="150">
   </a>
 
-<div id="popupA" class="overlay">
-  <a class="close" href="#">×</a>
-  <img src="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
-  Bruegel/Bosch? <em>The Triumph of Death</em>
-</div>
-
+  <div id="popupA" class="overlay">
+    <a class="close" href="#">×</a>
+    <img src="images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg" alt="Full-size Image A">
+    <p>Bruegel/Bosch? <em>The Triumph of Death</em></p>
+  </div>
 
 <!-- B -->
   <a href="#popupB">
