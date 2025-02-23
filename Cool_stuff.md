@@ -180,7 +180,7 @@ title: Cool stuff
   <div class="popup-content">
   <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
      <p class="popup-text"> Electron Microscopy <em>Macrophage and Lymphocytes </em></p>
-    [Electron Microscopy]([https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem])
+    [Electron Microscopy](https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem)
   </div>
 </div>
 
@@ -189,7 +189,7 @@ title: Cool stuff
   <div class="popup-content">
   <img src="/images/FM_1.png" alt="Full-size Image P">
      <p class="popup-text"> Fluorescence Microscopy </p>
-    [Fluorescence Microscopy]([https://fluorofinder.com/capturing-fluorescence-microscopy-images/])
+    [Fluorescence Microscopy](https://fluorofinder.com/capturing-fluorescence-microscopy-images/)
   </div>
 </div>
 
@@ -198,7 +198,7 @@ title: Cool stuff
   <div class="popup-content">
   <img src="/images/FM_2_Human-Fibroblast.png" alt="Full-size Image Q">
      <p class="popup-text"> Fluorescence Microscopy <em>Fibroblasts</em></p>
-    [Fluorescence Microscopy]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stressmarq.com%2Fsupport%2Ftechnical-support%2Ftroubleshooting%2Fimmunofluorescence-troubleshooting%2F&psig=AOvVaw2TSU22MeeWXMLZHFxWos1i&ust=1740420653399000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjRxaiy2osDFQAAAAAdAAAAABB4])
+    [Fluorescence Microscopy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stressmarq.com%2Fsupport%2Ftechnical-support%2Ftroubleshooting%2Fimmunofluorescence-troubleshooting%2F&psig=AOvVaw2TSU22MeeWXMLZHFxWos1i&ust=1740420653399000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjRxaiy2osDFQAAAAAdAAAAABB4)
   </div>
 </div>
 
