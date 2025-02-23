@@ -18,25 +18,25 @@ title: Work I've done
 ### Undergraduate Posters:
 
 <details>
-  <summary>Diamond Research Scholars Program (Temple University) (Nov 2023)</summary>
+  <summary> (Click me!!)Diamond Research Scholars Program (Temple University) (Nov 2023)</summary>
   <img src="/images/fall_2023_poster.png" alt="Poster Image" width="800"/>
 </details>
 
 
 <details>
-  <summary>Diamond Research Scholars Program (Temple University) (May 2023–Dec 2023)</summary>
+  <summary> (Click me!!)Diamond Research Scholars Program (Temple University) (May 2023–Dec 2023)</summary>
   <img src="/images/EscapefromXinactivation_and_disease_investingaGenomicMechanism_for_SexDisparities_in_nonReproductive_cancers.png" alt="Poster Image" width="800"/>
 </details>
 
 
 <details>
-  <summary>Kulathinal Research Lab (Jan 2023-May 2023)</summary>
+  <summary> (Click me!!)Kulathinal Research Lab (Jan 2023-May 2023)</summary>
   <img src="/images/Escape_from_Xinactivation_InvestigatingaGenomicMechanism_for_sexDisparites_in_disease.png" alt="Poster Image" width="800"/>
 </details>
 
 
 <details>
-  <summary>Frances Velay Fellowship Program (May 2022–Aug 2022)</summary>
+  <summary> (Click me!!)Frances Velay Fellowship Program (May 2022–Aug 2022)</summary>
   <img src="/images/TestingEXITSas_aGenomicMechanism_for_MaleBiasedCancers.png" alt="Poster Image" width="800"/>
 </details>
 
