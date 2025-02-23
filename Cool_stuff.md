@@ -185,8 +185,9 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
-     <p class="popup-text"> Electron Microscopy <em>Macrophage and Lymphocytes </em>
-     <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem" target"_blank"> source</a>
+     <p class="popup-text">
+       Electron Microscopy <em>Macrophage and Lymphocytes </em>
+     <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem" target"_blank"> source </a>
      </p>
   </div>
 </div>
@@ -195,9 +196,10 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/FM_1.png" alt="Full-size Image P">
-     <p class="popup-text"> Fluorescence Microscopy 
-     <a href="https://fluorofinder.com/capturing-fluorescence-microscopy-images/" target"_blank"> source</a>
-     </p>
+     <p class="popup-text">
+      Fluorescence microscopy 
+      <a href="https://fluorofinder.com/capturing-fluorescence-microscopy-images/" target="_blank">source</a>.
+    </p>
   </div>
 </div>
 
