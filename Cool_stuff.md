@@ -17,6 +17,36 @@ title: Cool stuff
   <a href="#popupD">
     <img src="/images/john_waterhouse_lady_of_shalott.jpg" alt="Thumbnail D" height="170">
   </a>
+  <a href="#popupE">
+    <img src="/images/Beksinski_1.jpeg" alt="Thumbnail E" height="170">
+  </a>
+  <a href="#popupF">
+    <img src="/images/Beksinski_2.jpg" alt="Thumbnail F" height="170">
+  </a>
+  <a href="#popupG">
+    <img src="/images/Beksinski_3.jpg" alt="Thumbnail G" height="170">
+  </a>
+  <a href="#popupH">
+    <img src="/images/BellWitch_Mirror_Reaper.jpg" alt="Thumbnail H" height="170">
+  </a>
+  <a href="#popupI">
+    <img src="/images/Dante_Alighieri_Paradiso_Canto.jpg" alt="Thumbnail I" height="170">
+  </a>
+  <a href="#popupJ">
+    <img src="/images/Death-of-Marat-Jacques-Louis-David.jpg" alt="Thumbnail J" height="170">
+  </a>
+  <a href="#popupK">
+    <img src="/images/Francisco_de_Goya_y_Lucientes_-_Witches'_Sabbath_(The_Great_He_Goat).jpg" alt="Thumbnail K" height="170">
+  </a>
+  <a href="#popupL">
+    <img src="/images/Joseph_Mallord_William_Turner_-_Death_on_a_pale_horse.jpg" alt="Thumbnail L" height="170">
+  </a>
+  <a href="#popupM">
+    <img src="/images/The_agnew_clinic_thomas_eakins.jpeg" alt="Thumbnail M" height="170">
+  </a>
+  <a href="#popupN">
+    <img src="/images/caravaggio-judith-beheading-holofernes.jpg" alt="Thumbnail N" height="170">
+  </a>
 </div>
 
 <!-- Images -->
@@ -31,7 +61,7 @@ title: Cool stuff
 <div id="popupB" class="overlay">
   <a class="close" href="#">×</a>
   <div class="popup-content">
-    <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image A">
+    <img src="/images/Brueghel_hunters_in_the_snow.jpg" alt="Full-size Image B">
     <p class="popup-text">Brueghel <em>Hunters in the Snow</em></p>
   </div>
 </div>
@@ -51,7 +81,87 @@ title: Cool stuff
      <p class="popup-text"> Waterhouse <em>The Lady of Shalott</em> </p>
   </div>
 </div>
-    
+
+<div id="popupE" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Beksinski_1.jpeg" alt="Full-size Image E">
+     <p class="popup-text"> Beksinski <em>Untitled </em> </p>
+  </div>
+</div>
+
+<div id="popupF" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Beksinski_2.jpg" alt="Full-size Image F">
+     <p class="popup-text"> Beksinski <em>Untitled</em> </p>
+  </div>
+</div>
+
+<div id="popupG" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Beksinski_3.jpg" alt="Full-size Image G">
+     <p class="popup-text"> Beksinski <em>Untitled</em> </p>
+  </div>
+</div>
+
+<div id="popupH" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/BellWitch_Mirror_Reaper.jpg" alt="Full-size Image H">
+     <p class="popup-text"> Bell Witch <em>Mirror Reaper Album Cover</em> </p>
+  </div>
+</div>
+
+<div id="popupI" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Dante_Alighieri_Paradiso_Canto.jpg" alt="Full-size Image I">
+     <p class="popup-text">Dante Alighieri<em>Paradiso Canto</em> </p>
+  </div>
+</div>
+
+<div id="popupJ" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Death-of-Marat-Jacques-Louis-David.jpg" alt="Full-size Image J">
+     <p class="popup-text"> Jacques Louis David <em>Death of Marat</em> </p>
+  </div>
+</div>
+
+<div id="popupK" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Francisco_de_Goya_y_Lucientes_-_Witches'_Sabbath_(The_Great_He_Goat).jpg" alt="Full-size Image K">
+     <p class="popup-text"> Goya <em>Witches' Sabbath (The Great He Goat)</em> </p>
+  </div>
+</div>
+
+<div id="popupL" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Joseph_Mallord_William_Turner_-_Death_on_a_pale_horse.jpg" alt="Full-size Image L">
+     <p class="popup-text"> Joseph Mallord Turner <em>Death on a pale house</em> </p>
+  </div>
+</div>
+
+<div id="popupM" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/The_agnew_clinic_thomas_eakins.jpeg" alt="Full-size Image M">
+     <p class="popup-text"> Thomas Eakins <em>The Agnew Clinic</em> </p>
+  </div>
+</div>
+
+<div id="popupN" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/caravaggio-judith-beheading-holofernes.jpg" alt="Full-size Image N">
+     <p class="popup-text"> Caravaggio <em>Judith beheading Holofernes</em> </p>
+  </div>
+</div>
+
 ### Microscopy
 electron images
 
