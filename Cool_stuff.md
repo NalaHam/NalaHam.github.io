@@ -36,7 +36,7 @@ title: Cool stuff
     <img src="/images/Death-of-Marat-Jacques-Louis-David.jpg" alt="Thumbnail J" height="170">
   </a>
   <a href="#popupK">
-    <img src="/images/Francisco_de_Goya_y_Lucientes_-_Witches'_Sabbath_(The_Great_He_Goat).jpg" alt="Thumbnail K" height="170">
+    <img src="/images/Francisco_de_Goya_y_Lucientes_Witches_Sabbath_The_Great_He_Goat.jpg" alt="Thumbnail K" height="170">
   </a>
   <a href="#popupL">
     <img src="/images/Joseph_Mallord_William_Turner_-_Death_on_a_pale_horse.jpg" alt="Thumbnail L" height="170">
@@ -133,7 +133,7 @@ title: Cool stuff
 <div id="popupK" class="overlay">
   <a class="close" href="#">×</a>
   <div class="popup-content">
-  <img src="/images/Francisco_de_Goya_y_Lucientes_-_Witches'_Sabbath_(The_Great_He_Goat).jpg" alt="Full-size Image K">
+  <img src="/images/Francisco_de_Goya_y_Lucientes_Witches_Sabbath_The_Great_He_Goat.jpg" alt="Full-size Image K">
      <p class="popup-text"> Goya <em>Witches' Sabbath (The Great He Goat)</em> </p>
   </div>
 </div>
