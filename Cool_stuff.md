@@ -185,7 +185,9 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
-     <p class="popup-text"> Electron Microscopy <em>Macrophage and Lymphocytes </em></p>
+     <p class="popup-text"> Electron Microscopy <em>Macrophage and Lymphocytes </em>
+     <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem" target"_blank"> source</a>
+     </p>
   </div>
 </div>
 
@@ -193,7 +195,9 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/FM_1.png" alt="Full-size Image P">
-     <p class="popup-text"> Fluorescence Microscopy </p>
+     <p class="popup-text"> Fluorescence Microscopy 
+     <a href="https://fluorofinder.com/capturing-fluorescence-microscopy-images/" target"_blank"> source</a>
+     </p>
   </div>
 </div>
 
@@ -201,7 +205,9 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/FM_2_Human-Fibroblast.png" alt="Full-size Image Q">
-     <p class="popup-text"> Fluorescence Microscopy <em>Fibroblasts</em></p>
+     <p class="popup-text"> Fluorescence Microscopy <em>Fibroblasts</em>
+     <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stressmarq.com%2Fsupport%2Ftechnical-support%2Ftroubleshooting%2Fimmunofluorescence-troubleshooting%2F&psig=AOvVaw2TSU22MeeWXMLZHFxWos1i&ust=1740420653399000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjRxaiy2osDFQAAAAAdAAAAABB4" target"_blank"> source</a>
+     </p>
   </div>
 </div>
 
@@ -221,7 +227,10 @@ title: Cool stuff
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/xenium.jpg" alt="Full-size Image S">
-     <p class="popup-text"> Xenium in situ </p>
+     <p class="popup-text"> 
+       Xenium in situ 
+       <a href="https://www.10xgenomics.com/platforms/xenium" target"_blank"> source</a>
+     </p>
   </div>
 </div>
 
