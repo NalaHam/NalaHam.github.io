@@ -47,6 +47,15 @@ title: Cool stuff
   <a href="#popupN">
     <img src="/images/caravaggio-judith-beheading-holofernes.jpg" alt="Thumbnail N" height="170">
   </a>
+  <a href="#popupO">
+    <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Thumbnail O" height="170">
+  </a>
+  <a href="#popupP">
+    <img src="/images/FM_1.png" alt="Thumbnail P" height="170">
+  </a>
+  <a href="#popupQ">
+    <img src="/images/FM_2_Human-Fibroblast.png" alt="Thumbnail Q" height="170">
+  </a>
 </div>
 
 <!-- Images -->
@@ -163,13 +172,30 @@ title: Cool stuff
 </div>
 
 ### Microscopy
-electron images
+<div id="popupO" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
+     <p class="popup-text"> [Electron Microscopy]([https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem]) </p>
+  </div>
+</div>
 
+<div id="popupP" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/FM_1.png" alt="Full-size Image P">
+     <p class="popup-text"> [Fluorescence Microscopy]([https://fluorofinder.com/capturing-fluorescence-microscopy-images/]) </p>
+  </div>
+</div>
 
-immunofluorescence images
+<div id="popupQ" class="overlay">
+  <a class="close" href="#">×</a>
+  <div class="popup-content">
+  <img src="/images/FM_2_Human-Fibroblast.png" alt="Full-size Image Q">
+     <p class="popup-text"> [Fluorescence Microscopy]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stressmarq.com%2Fsupport%2Ftechnical-support%2Ftroubleshooting%2Fimmunofluorescence-troubleshooting%2F&psig=AOvVaw2TSU22MeeWXMLZHFxWos1i&ust=1740420653399000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjRxaiy2osDFQAAAAAdAAAAABB4]) </p>
+  </div>
+</div>
 
-
-xenium in situ images
 
 ### Books
 
