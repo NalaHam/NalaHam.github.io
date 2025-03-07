@@ -187,7 +187,7 @@ title: Cool stuff
   <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
      <p class="popup-text"> 
        Electron Microscopy <em>Fibroblasts</em>
-       <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem" target="_blank">source</a>
+       <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem/" target="_blank">source</a>
      </p>
   </div>
 </div>
