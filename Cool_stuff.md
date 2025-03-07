@@ -181,12 +181,12 @@ title: Cool stuff
   </a>
 </div>
 
-<div id="popupO" class="overlay">
+<div id="popup0" class="overlay">
   <a class="close" href="#">×</a>
   <div class="popup-content">
   <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Full-size Image O">
-     <p class="popup-text">
-       Electron Microscopy <em>Macrophage and Lymphocytes </em>
+     <p class="popup-text"> 
+       Electron Microscopy <em>Fibroblasts</em>
        <a href="https://www.sciencephoto.com/media/495015/view/macrophage-and-lymphocytes-tem" target"_blank">source</a>
      </p>
   </div>
