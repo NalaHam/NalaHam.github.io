@@ -164,7 +164,7 @@ title: Cool stuff
 
 ### Microscopy
 <div class="thumbnail-container">
-    <a href="#popupO">
+  <a href="#popupO">
     <img src="/images/Macrophage_and_lymphocytes_EM.jpg" alt="Thumbnail O" height="170">
   </a>
   <a href="#popupP">
