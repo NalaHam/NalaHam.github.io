@@ -6,8 +6,8 @@ permalink: /main/
 
 # Research Interests/Things I think are interesting:
 
-## The Youtuber Nalahamilton1607
-### [nalahamilton1607](https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g)
+## The Youtuber nalahamilton.science
+### [nalahamilton.science](https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g)
 
 
 # Sex chromosome specific phenotypes: 
