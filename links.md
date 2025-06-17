@@ -16,6 +16,8 @@ title: Helpful Links
 
 [Get windows on Mac guide]([https://www.intego.com/mac-security-blog/how-to-run-windows-11-for-free-on-an-m1-m2-m3-or-m4-mac/amp/])
 
+[Format txt in Mac Mail]([https://support.apple.com/guide/mail/format-text-in-emails-mlhlp1219/mac])
+
 Biostat identify test guide:
 <img src="/images/biostat_test_table_cheat_sheet.jpg" alt="table" width="700"/>
 
