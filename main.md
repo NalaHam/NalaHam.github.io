@@ -9,6 +9,14 @@ permalink: /main/
 ## The Youtuber nalahamilton.science
 ### [nalahamilton.science](https://www.youtube.com/channel/UCDNVgS1O-37Fzl20FiNgb2g)
 
+## Cute txt art
+             __
+            ( o`-
+            /  \
+            |  |
+             ^^ 
+^penguin
+### http://www.ascii-art.de/ascii/pqr/penguins.txt
 
 # Sex chromosome specific phenotypes: 
 Escape genes, Loss of Y chromosome, X chromosome inactivation
